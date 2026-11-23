@@ -1,7 +1,7 @@
 # Latihan GUI Java Swing - To-Do List
 
-**NIM:** (F1D02510017)
-**Nama:** (Muhammad Sahrir)
+**NIM:** F1D02510017
+**Nama:** Muhammad Sahrir
 **Kelas:** 3C
 
 ## Cara Menjalankan

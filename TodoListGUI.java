@@ -2,17 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**
- * Latihan GUI Java Swing - To-Do List
- *
- * Komponen yang digunakan:
- * 1. Top-level Container      : JFrame
- * 2. Intermediate Container   : JPanel, JScrollPane
- * 3. Atomic Component         : JLabel, JTextField, JButton, JList, JCheckBox
- * 4. Layout Classes           : BorderLayout, FlowLayout, GridLayout
- * 5. Event Listener           : ActionListener (interface),
- *                               KeyAdapter, MouseAdapter, WindowAdapter (adapter class)
- */
 public class TodoListGUI extends JFrame {
 
     private DefaultListModel<String> model;
